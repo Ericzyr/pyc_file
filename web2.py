@@ -11,7 +11,7 @@ def getpage(web):
 web = "http://quote.eastmoney.com/stocklist.html"
 date = getpage(web)
 print(date)
-
+print("afdasfas")
 
 
 
